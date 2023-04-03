@@ -3,7 +3,7 @@ import axios from 'axios'
 
 export class FetchForMyHW {
     BASE_URL = 'https://pixabay.com/api/'
-    API_KEY = 'key='
+    API_KEY = 'key=34996463-766ec1b5fe7510f9899caeac4'
 
     querry = null
     page = 1
